@@ -22,12 +22,12 @@
 
 - **main branch**
 ```
-curl -LSs "https://raw.githubusercontent.com/rsuntk/KernelSU/main/kernel/setup.sh" | bash -s main
+curl -LSs "https://raw.githubusercontent.com/omarsmehan1/KernelSU/refs/heads/main/kernel/setup.sh" | bash -s main
 ```
 
 - **tag**
 ```
-curl -LSs "https://raw.githubusercontent.com/rsuntk/KernelSU/main/kernel/setup.sh" | bash -s v3.0.0-30-legacy
+curl -LSs "https://raw.githubusercontent.com/omarsmehan1/KernelSU/refs/heads/main/kernel/setup.sh" | bash -s v3.0.0-30-legacy
 ```
 
 - **susfs branch**
@@ -37,7 +37,7 @@ curl -LSs "https://raw.githubusercontent.com/rsuntk/KernelSU/main/kernel/setup.s
 >
 
 ```
-curl -LSs "https://raw.githubusercontent.com/rsuntk/KernelSU/main/kernel/setup.sh" | bash -s susfs-rksu-master
+curl -LSs "https://raw.githubusercontent.com/omarsmehan1/KernelSU/refs/heads/main/kernel/setup.sh" | bash -s susfs-rksu-master
 ```
 
 ## Hook method
